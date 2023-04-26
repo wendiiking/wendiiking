@@ -2,8 +2,8 @@
 
 Hi 👋🏽, I am Gift Chinwendu Eze.
 
-<span style="display:block;text-align:center">[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grace-anulika-eze-data-unicorn/)](https://www.linkedin.com/in/gift-chinwendu-eze-)</span>
-
+<span style="display:block;text-align:center">[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gift-chinwendu-eze-)](https://www.linkedin.com/in/gift-chinwendu-eze-)</span>
+<span style="display:block;text-align:center">[![Gmail](https://img.shields.io/badge/-Gmail-red?style=plastic&logo=Gmail&logoColor=white&link=https://www.gmail.com/in/gift-chinwendu-eze-)](https://www.gmail.com/in/gift-chinwendu-eze-)</span>
 ---
 ### Bio
 ---
