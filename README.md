@@ -1,16 +1,19 @@
-### Hi there 👋
+### My GitHub Profile
 
-<!--
-**wendiiking/wendiiking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋🏽, I am Gift Chinwendu Eze.
+---
+Bio
 
-Here are some ideas to get you started:
+I am a petroleum engineer with interest in the areas of; data science, data analysis, data engineering and project management. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am constantly motivated by every new experience I learn through data and always ready to effectively use data driven methods to create solutions to business requirements.
+
+Summary
+
+Self development and Continous learning
+Favourite toolkit so far: Python, VSCode, Git/Github, SQL
+Music is healing, Music is Soul 🎵
+Foodie and lover of all things cute 🥰🥰
+Avid Reader, Audio-Visual Learner
+Love reading books, swimming, dancing, watching movies and so on.
+Fun fact about me: I get happy at the littlest things 😁😁
