@@ -17,7 +17,7 @@ I am constantly motivated by every new experience I learn through dataand always
 ---
 
 * Self development and Continous learning
-* Favourite toolkit so far: Python, VSCode, Git/Github, SQL
+* Favourite toolkit so far: Spreadsheets, Tableau, Git/Github, SQL
 * Music is healing, Music is life 🎵
 * Foodie and lover of all things cute 🥰🥰
 * Avid Reader, Audio-Visual Learner
