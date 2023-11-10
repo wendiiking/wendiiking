@@ -8,9 +8,10 @@ Hi 👋🏽, I am Gift Chinwendu Eze.
 ### Bio
 ---
 
-I am a petroleum engineer with interest in the areas of; data science, data analysis, data engineering and project management. 
+I am a petroleum engineer with interest in the areas of; data analysis, data science, data engineering and project management.
 
-I am constantly motivated by every new experience I learn through data and always ready to effectively use data driven methods to create solutions to business requirements.
+I am constantly motivated by every new experience I learn through dataand always ready to effectively use data driven methods to create solutions to business requirements.
+
 
 ### Summary
 ---
