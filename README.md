@@ -10,7 +10,7 @@ Hi 👋🏽, I am Gift Chinwendu Eze.
 
 I am a petroleum engineer with interest in the areas of; data analysis, data science, data engineering and project management.
 
-I am constantly motivated by every new experience I learn through dataand always ready to effectively use data driven methods to create solutions to business requirements.
+I am constantly motivated by every new experience I learn through data and always ready to effectively use data driven methods to create solutions to business requirements.
 
 
 ### Summary
@@ -30,12 +30,15 @@ I am constantly motivated by every new experience I learn through dataand always
 * SOFT SKILLS
   - Team work
   - Communication
+  - Attention to detail
   - Time management
   - Leadership
   - Openness to criticism
   
 * TECH SKILLS
   - Power BI
+  - SQL
+  - Python
   - Tableau
   - Microsoft Excel
   - Microsoft Powerpoint
